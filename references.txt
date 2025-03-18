@@ -1,0 +1,42 @@
+1 A.Pramanik, S. K. Pal, J. Maiti, et al., “Granulated rcnn and multi-class deep sort for multiobject detection and tracking,” IEEE Transactions on Emerging Topics in Computational Intelligence 6(1), 171–181 (2021).
+2 Q. Wei, “Research on automatic target acquisition and tracking in an infrared tracking system,” in 2017 16th International Conference on Optical Communications and Networks (ICOCN), 1–3, IEEE (2017).
+3 H.Hu, H. Cai, Z. Ma, et al., “Semantic segmentation based on semantic edge optimization,”in 2021 International Conference on Electronic Information Engineering and Computer Science (EIECS), 612–615, IEEE (2021).
+4 Z. Wang, C. Zhu, J. Liu, et al., “Angle-based non-local recurrent network for single image deraining,” in 2020 IEEE 6th International Conference on Computer and Communications (ICCC), 2261–2264, IEEE (2020).
+5 X. Guo, Y. Li, and H. Ling, “Lime: Low-light image enhancement via illumination map estimation,” IEEE Transactions on image processing 26(2), 982–993 (2016).
+6 Y. Hai, L. Li, and J. Gu, “Image enhancement based on contrast limited adaptive histogram equalization for 3d images of stereoscopic endoscopy,” in 2015 IEEE International Conference on Information and Automation, 668–672, IEEE (2015).
+7 L. Huang and Y. Xia, “Fast image restoration using a simplified matrix-type recurrent neural network,” in 2022 15th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), 1–6, IEEE (2022).
+8 D. Jin, L. Ma, R. Liu, et al., “Bridging the gap between low-light scenes: Bilevel learning for fast adaptation,” in Proceedings of the 29th ACM international conference on multimedia, 2401–2409 (2021).
+9 R. Liu, L. Ma, X. Yuan, et al., “Task-oriented convex bilevel optimization with latent feasibility,” IEEE Transactions on Image Processing 31, 1190–1203 (2022).
+10 L. Ma, R. Liu, J. Zhang, et al., “Learning deep context-sensitive decomposition for low-light image enhancement,” IEEE Transactions on Neural Networks and Learning Systems 33(10),5666–5680 (2021).
+11 C. Sakaridis, D. Dai, and L. V. Gool, “Guided curriculum model adaptation and uncertainty aware evaluation for semantic nighttime image segmentation,” in Proceedings of the IEEE/CVF international conference on computer vision, 7374–7383 (2019).
+12 W.Wang, W. Yang, and J. Liu, “Hla-face: Joint high-low adaptation for low light face detection,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 16195–16204 (2021).
+13 X. Wu, Z. Wu, H. Guo, et al., “Dannet: A one-stage domain adaptation network for unsupervised nighttime semantic segmentation,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 15769–15778 (2021).
+14 C. Guo, C. Li, J. Guo, et al., “Zero-reference deep curve estimation for low-light image enhancement,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 1780–1789 (2020).
+15 C. Li, C. Guo, and C. C. Loy, “Learning to enhance low-light image via zero-reference deep curve estimation,” IEEE transactions on pattern analysis and machine intelligence 44(8), 4225–4238 (2021).
+16 F.Chollet, “Xception: Deep learning with depthwise separable convolutions,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 1251–1258 (2017).
+17 Z. Ying, G. Li, and W. Gao, “A bio-inspired multi-exposure fusion framework for low-light image enhancement,” arXiv preprint arXiv:1711.00591 (2017).
+18 X. Dong, Y. Pang, and J. Wen, “Fast efficient algorithm for enhancement of low lighting video,” in ACM SIGGRApH 2010 posters, 1–1 (2010).
+19 C. Wei, W. Wang, W. Yang, et al., “Deep retinex decomposition for low-light enhancement,” arXiv preprint arXiv:1808.04560 (2018).
+20 Y.Zhang,X.Guo,J.Ma,etal., “Beyondbrighteninglow-lightimages,” International Journal of Computer Vision 129, 1013–1037 (2021).
+21 Y. Jiang, X. Gong, D. Liu, et al., “Enlightengan: Deep light enhancement without paired supervision,” IEEE transactions on image processing 30, 2340–2349 (2021).
+22 S. K. Naik and C. Murthy, “Hue-preserving color image enhancement without gamut problem,” IEEE Transactions on image processing 12(12), 1591–1598 (2003).
+23 X.Ren, M. Li, W.-H. Cheng, et al., “Joint enhancement and denoising method via sequential decomposition,” in 2018 IEEE international symposium on circuits and systems (ISCAS), 1–5, IEEE (2018).
+24 A. Krull, T.-O. Buchholz, and F. Jug, “Noise2void-learning denoising from single noisy images,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2129–2137 (2019).
+25 K. G. Lore, A. Akintayo, and S. Sarkar, “Llnet: A deep autoencoder approach to natural low-light image enhancement,” Pattern Recognition 61, 650–662 (2017).
+26 L. Tao, C. Zhu, G. Xiang, et al., “Llcnn: A convolutional neural network for low-light image enhancement,” in 2017 IEEE Visual Communications and Image Processing (VCIP), 1–4, IEEE (2017).
+27 D. Yang and J. Sun, “Bm3d-net: A convolutional neural network for transform-domain collaborative filtering,” IEEE Signal Processing Letters 25(1), 55–59 (2017).
+28 W. Wang, C. Wei, W. Yang, et al., “Gladnet: Low-light enhancement network with global awareness,” in 2018 13th IEEE international conference on automatic face & gesture recognition (FG 2018), 751–755, IEEE (2018).
+29 C. Li, J. Guo, F. Porikli, et al., “Lightennet: A convolutional neural network for weakly illuminated image enhancement,” Pattern recognition letters 104, 15–22 (2018).
+30 W. Yang, S. Wang, Y. Fang, et al., “From fidelity to perceptual quality: A semi-supervised approach for low-light image enhancement,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 3063–3072 (2020).
+31 J. Hu, L. Shen, and G. Sun, “Squeeze-and-excitation networks,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 7132–7141 (2018).
+32 Q. Wang, B. Wu, P. Zhu, et al., “Eca-net: Efficient channel attention for deep convolutional neural networks,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 11534–11542 (2020).
+33 Y. Wei, W. Liu, W. Chen, et al., “Driver distraction recognition based on cbam attention mechanism,” in 2022 IEEE International Conference on Industrial Technology (ICIT), 1–5, IEEE (2022).
+34 Q. Hou, D. Zhou, and J. Feng, “Coordinate attention for efficient mobile network design,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 13713–13722 (2021).
+35 T. Mertens, J. Kautz, and F. Van Reeth, “Exposure fusion: A simple and practical alternative to high dynamic range photography,” in Computer graphics forum, 28(1), 161–171, Wiley Online Library (2009).
+36 S. Wang, J. Zheng, H.-M. Hu, et al., “Naturalness preserved enhancement algorithm for non-uniform illumination images,” IEEE transactions on image processing 22(9), 3538–3548 (2013).
+37 G.Stramondo, M. D. Gomony, B. Kozicki, et al., “µ-genie: A framework for memory-aware spatial processor architecture co-design exploration,” in 2020 23rd Euromicro Conference on Digital System Design (DSD), 180–184, IEEE (2020).
+38 C.Lee, C. Lee, and C.-S. Kim, “Contrast enhancement based on layered difference representation of 2d histograms,” IEEE transactions on image processing 22(12), 5372–5384 (2013).
+39 K. Ma, K. Zeng, and Z. Wang, “Perceptual quality assessment for multi-exposure image fusion,” IEEE Transactions on Image Processing 24(11), 3345–3356 (2015).
+40 Z. Wang, A. C. Bovik, H. R. Sheikh, et al., “Image quality assessment: from error visibility to structural similarity,” IEEE transactions on image processing 13(4), 600–612 (2004).
+41 I. A. Sabilla, M. Meirisdiana, D. Sunaryono, et al., “Best ratio size of image in steganography using portable document format with evaluation rmse, psnr, and ssim,” in 2021 4th International Conference of Computer and Informatics Engineering (IC2IE), 289–294, IEEE (2021).
+42 A. Mittal, R. Soundararajan, and A. C. Bovik, “Making a “completely blind” image quality analyzer,” IEEE Signal processing letters 20(3), 209–212 (2012).
